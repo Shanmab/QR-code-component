@@ -72,6 +72,5 @@ I want to continue to use flexbox, but next time I want to see if I can use grid
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@shanmab](https://www.frontendmentor.io/profile/shanmab)
 
