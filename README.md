@@ -18,7 +18,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-(qr-code-component-main/images/qr-screenshot.png)
+![qr-screenshot](https://github.com/Shanmab/QR-code-component/assets/127676644/9e591ba1-931d-48ea-848c-2ec625376a65)
 
 ### Links
 
